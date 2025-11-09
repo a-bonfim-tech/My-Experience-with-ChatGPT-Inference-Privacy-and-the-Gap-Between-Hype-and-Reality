@@ -1,0 +1,2 @@
+# My-Experience-with-ChatGPT-Inference-Privacy-and-the-Gap-Between-Hype-and-Reality
+Two weeks ago I went through an experience with ChatGPT that forced me to rethink what we call “artificial intelligence”. It wasn’t just a technical glitch. It exposed structural weaknesses in how these systems handle inference (what they “decide” to say) and privacy (what they silently keep). My experience in a trilingual PDF (EN/DE/PT):
